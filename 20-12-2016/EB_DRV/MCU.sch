@@ -1867,10 +1867,6 @@ Wire Wire Line
 Wire Wire Line
 	5450 7300 5100 7300
 Wire Wire Line
-	2600 7400 3100 7400
-Wire Wire Line
-	2500 7550 3200 7550
-Wire Wire Line
 	5350 2700 5350 2600
 $Comp
 L C C9
